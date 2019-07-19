@@ -9,7 +9,7 @@ public class DemoController {
 
     @GetMapping("/alive")
     public String test() {
-        return "张小言是小乖乖";
+        return "张小言是小乖乖~~~~~~~";
     }
 
 }
